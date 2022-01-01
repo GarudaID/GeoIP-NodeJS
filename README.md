@@ -5,7 +5,7 @@ Basic GeoIP coded on NodeJS for educational purposes.<br>
   Tool coded on nodejs that grabs info about an IP Address.</p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/447411230098063362.png"></p>
 <br>
-<p align="center"><img src="https://github.com/penucuriCode/iptracker/blob/main/screenshot/via.PNG"></p>
+<p align="center"><img src="https://github.com/GarudaID/GeoIP-NodeJS/blob/main/screenshot/via.PNG"></p>
 
 ## Install and Usage
 
