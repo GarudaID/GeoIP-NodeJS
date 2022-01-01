@@ -1,0 +1,17 @@
+{
+  "name": "geoip-tool",
+  "version": "1.0.0",
+  "description": "tool that can steal info from a ip using a api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PenucuriCode",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-iplocate": "^1.0.2",
+    "readline": "^1.3.0",
+    "request": "^2.88.2"
+  }
+}
